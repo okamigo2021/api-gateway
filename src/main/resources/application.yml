@@ -36,7 +36,7 @@ spring:
   profiles: default
   cloud:
     consul:
-      host: <consul>
+      host: 18.218.26.143
       port: 8500
       discovery:
         hostName: <api-gateway>  # IP address or dns name
