@@ -1,0 +1,1 @@
+api-server ansible_host=13.59.240.155 ansible_user=ubuntu ansible_ssh_private_key_file=/root/.ssh/epamclass.pem
